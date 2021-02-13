@@ -65,7 +65,7 @@ ControlSend,,  a, Insert tab name here
 
 
 
-KNOWN BUGS
+**KNOWN BUGS**
 
 Sometimes while the script is running keys like Crtl, Alt, Tab and  Shfit
 will not work.Other keys may not work also
