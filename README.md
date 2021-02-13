@@ -15,8 +15,8 @@ Secondly create a txt file and change the file format to ahk to do this click re
 
 Thirdly right click the new document and click open with notepad once notepad is open paste this into the empty notepad 
 
-
-`Pause on
+```
+Pause on
 
 loop
 {
@@ -26,7 +26,8 @@ ControlSend,,  {w up}, Minecraft* 1.16.3 - Multiplayer
 sleep 2000
 }
 
-f6::Pause`
+f6::Pause
+```
 
 
 
