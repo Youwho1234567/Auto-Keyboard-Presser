@@ -34,8 +34,8 @@ f6::Pause
 
 
 
-Let me explain what you see here where it says loop its just saying loop anything in the curly brackets. ControlSend W up is just saying hold down W in the tab titled
-Minecraft* 1.16.3 - Multiplayer.
+Let me explain what you see here where it says loop its just saying loop anything in the curly brackets.
+ControlSend W down is just saying hold down W in the tab titledMinecraft* 1.16.3 - Multiplayer.
 Sleep is saying  how long you want it to run so in this instance we want W to be held down for 800 ms.
 Then on the next line there is another ControlSend but this time it says W up which means stop holding down W in the tab titled Minecraft* 1.16.3 - Multiplayer for 2 seconds.
 Then f6::Pause is just the hotkey  you want to trigger it with 
