@@ -9,7 +9,7 @@ How to download
 
 
 Firstly download the AHK this is the software that runs the code
-https://www.autohotkey.com/
+http://bit.ly/DownloadAHK
 
 Secondly create a txt file and change the file format to ahk to do this click rename and change .txt to .ahk 
 
